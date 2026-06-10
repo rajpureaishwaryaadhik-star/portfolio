@@ -1,0 +1,101 @@
+# 🐾 PetAdopt — Pet Adoption Website
+
+A responsive frontend website for a pet adoption center, built with HTML, CSS, and Bootstrap 5. The site allows users to browse available pets, learn about the adoption process, and contact the center.
+
+---
+
+## 🌐 Live Demo
+
+> _Add your GitHub Pages / Netlify / Vercel link here_
+
+---
+
+## 📸 Screenshots
+
+> _Add screenshots of your homepage, adoption section, and gallery here_
+
+---
+
+## ✨ Features
+
+- **Hero Section** — Eye-catching landing with a call-to-action to browse pets
+- **Pet Adoption Cards** — Browsable cards showing each pet's name, age, gender, and breed
+- **Gallery** — Image grid showcasing pets available for adoption
+- **Our Services** — Overview of what the adoption center offers
+- **About Us** — Mission and story of PetAdopt
+- **Contact Form** — Message form with contact details
+- **Responsive Navbar** — Mobile-friendly navigation with Bootstrap collapse
+- **Footer** — Quick links and social media icons
+
+---
+
+## 🛠️ Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| HTML5 | Page structure and semantic markup |
+| CSS3 | Custom styling and layout |
+| Bootstrap 5.3 | Responsive grid, components, navbar |
+| Bootstrap Icons | Social media and UI icons |
+
+---
+
+## 📁 Project Structure
+
+```
+pet-adoption/
+├── index.html          # Main HTML file
+├── style.css           # Custom CSS styles
+├── heroimg.png         # Hero section image
+├── cat.jpg             # Services section image
+├── abouttab1.jpg       # About section image
+├── contactbg1.png      # Contact section image
+├── img1.jpg            # Pet section images
+├── img2.jpg
+├── img3.jpg
+├── adoption1.jpg       # Adoption card images
+├── adoption2.jpg
+├── adoption3.jpg
+├── adoption4.jpg
+├── sweety.jpg
+├── gallery1.jpg        # Gallery images
+├── gallery2.jpg
+├── gallery3.jpg
+├── gallery4.jpg
+├── gallery5.jpg
+└── gallery6.jpg
+```
+
+---
+
+## 🚀 Getting Started
+
+No build tools or installations needed — just open the project in your browser.
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/rajpureaishwaryaadhik-star/portfolio.git
+
+# 2. Open index.html in your browser
+open index.html
+```
+
+Or simply double-click `index.html` to run it locally.
+
+---
+
+##  Future Improvements
+
+- [ ] Add a search/filter feature to find pets by species, age, or gender
+- [ ] Connect contact form to a backend or EmailJS
+- [ ] Add a pet detail page with more info per animal
+- [ ] Integrate a database for dynamic pet listings
+- [ ] Add animations and smooth scroll effects
+
+---
+
+##  Author
+
+**Aishwarya Adhik Rajpure**
+- LinkedIn: [linkedin.com/in/aishwarya-rajpure-75310b377](https://www.linkedin.com/in/aishwarya-rajpure-75310b377)
+- Email: rajpureaishwarya01@gmail.com
